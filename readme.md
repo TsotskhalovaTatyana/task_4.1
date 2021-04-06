@@ -7,12 +7,15 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-### Содержание 
+### Основные операции GIT
 
----
+1. [git config](./config.md)
+2. [git init](./init.md)
+3. [git add](./add.md)
+4. [git commit](./commit.md)
+5. [git clone](./clone.md)
 
-1. config
-2. [git add](./add.md)
+### Работа с удаленным репозиторием
 
 
 
